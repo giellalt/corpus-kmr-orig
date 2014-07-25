@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2014-07-15T17:35:11+01:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2014-07-24T16:54:00+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///F:/WorkBakups/Bamberg/Projekts2011/Projekt_eastanatolia_application/pilot_study_2014/mush_erzurum_pilotproject/nk_muserz_1_1/nk_muserz_1_1.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2b3d3291-8ccb-4897-a2a7-a7a8ca184009</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">21415</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">21420</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -9851,7 +9851,12 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a2289" ANNOTATION_REF="a1137" PREVIOUS_ANNOTATION="a2288">
+            <REF_ANNOTATION ANNOTATION_ID="a21417" ANNOTATION_REF="a1137" PREVIOUS_ANNOTATION="a2288">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2289" ANNOTATION_REF="a1137" PREVIOUS_ANNOTATION="a21417">
                 <ANNOTATION_VALUE>dide</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -29188,6 +29193,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21418" ANNOTATION_REF="a21417">
+                <ANNOTATION_VALUE>0_it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6112" ANNOTATION_REF="a2289">
                 <ANNOTATION_VALUE>gives</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -45540,6 +45550,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21416" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ht: consider dimîne a copula here?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a13204" ANNOTATION_REF="a20">
                 <ANNOTATION_VALUE>The relative clause is considered not to have a zero because in subject relativization an overt subject would not be possible</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -45556,7 +45571,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a21119" ANNOTATION_REF="a50">
-                <ANNOTATION_VALUE>jê ra - obl or goal?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jê ra - obl or goal? or pred?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -48704,6 +48719,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a13892" ANNOTATION_REF="a2288">
                 <ANNOTATION_VALUE>0_he</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21419" ANNOTATION_REF="a21417">
+                <ANNOTATION_VALUE>0_it</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -65010,7 +65030,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17274" ANNOTATION_REF="a5530">
-                <ANNOTATION_VALUE>pn_2</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -65195,7 +65215,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17311" ANNOTATION_REF="a5565">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>lv_other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -65265,7 +65285,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17325" ANNOTATION_REF="a5579">
-                <ANNOTATION_VALUE>pvgoal_np.h:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvgoal_pro.h:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -65460,7 +65480,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17364" ANNOTATION_REF="a5618">
-                <ANNOTATION_VALUE>np.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.h:s=aux</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -65540,7 +65560,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17380" ANNOTATION_REF="a5634">
-                <ANNOTATION_VALUE>#ds_neg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#ds_cc.neg</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -65570,7 +65590,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17386" ANNOTATION_REF="a5640">
-                <ANNOTATION_VALUE>#ds_neg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#ds_cc.neg</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -65590,7 +65610,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17390" ANNOTATION_REF="a5644">
-                <ANNOTATION_VALUE>#ds</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#ds_cc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -66080,7 +66100,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17488" ANNOTATION_REF="a5738">
-                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -66165,17 +66185,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17505" ANNOTATION_REF="a5754">
-                <ANNOTATION_VALUE>of</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17506" ANNOTATION_REF="a5755">
-                <ANNOTATION_VALUE>marriage</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17507" ANNOTATION_REF="a5756">
-                <ANNOTATION_VALUE>will.come</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -66185,7 +66205,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17509" ANNOTATION_REF="a5758">
-                <ANNOTATION_VALUE>pro.h:a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.h:a=aux</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -66705,7 +66725,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17613" ANNOTATION_REF="a5862">
-                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -66945,7 +66965,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17661" ANNOTATION_REF="a5910">
-                <ANNOTATION_VALUE>0.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0.h:a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -66975,7 +66995,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17667" ANNOTATION_REF="a5916">
-                <ANNOTATION_VALUE>pro.2:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.2:a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -67000,7 +67020,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17672" ANNOTATION_REF="a13226">
-                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -67085,7 +67105,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17689" ANNOTATION_REF="a5937">
-                <ANNOTATION_VALUE>pn:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn.h:other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -67940,7 +67960,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17857" ANNOTATION_REF="a6102">
-                <ANNOTATION_VALUE>np:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -67989,18 +68009,23 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21420" ANNOTATION_REF="a21418">
+                <ANNOTATION_VALUE>0:p</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17867" ANNOTATION_REF="a6112">
                 <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17868" ANNOTATION_REF="a6113">
-                <ANNOTATION_VALUE>pvgoal_other:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_other:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17869" ANNOTATION_REF="a6114">
-                <ANNOTATION_VALUE>pvother_np:p</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvocandg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68035,7 +68060,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17876" ANNOTATION_REF="a6121">
-                <ANNOTATION_VALUE>pvgoal_other:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_other:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68230,7 +68255,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17915" ANNOTATION_REF="a6159">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68275,7 +68300,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17924" ANNOTATION_REF="a6167">
-                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68330,7 +68355,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17935" ANNOTATION_REF="a6178">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68870,7 +68895,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18042" ANNOTATION_REF="a6285">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68960,12 +68985,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18060" ANNOTATION_REF="a6303">
-                <ANNOTATION_VALUE>pn_rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn.h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18061" ANNOTATION_REF="a6304">
-                <ANNOTATION_VALUE>pn_rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn.h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68985,7 +69010,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18065" ANNOTATION_REF="a6308">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -69110,7 +69135,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18090" ANNOTATION_REF="a6333">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -69155,7 +69180,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18099" ANNOTATION_REF="a6341">
-                <ANNOTATION_VALUE>pvgoal_other:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_other:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -69185,7 +69210,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18105" ANNOTATION_REF="a6347">
-                <ANNOTATION_VALUE>pvother_np:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcandg_np:obl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -69445,7 +69470,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18157" ANNOTATION_REF="a6400">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -69470,7 +69495,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18162" ANNOTATION_REF="a6405">
-                <ANNOTATION_VALUE>prevgoal_adp-pro:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prevcausg_adp-pro:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -69540,7 +69565,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18176" ANNOTATION_REF="a6420">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -69695,7 +69720,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18207" ANNOTATION_REF="a6451">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prevgoal_other:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -69705,7 +69730,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18209" ANNOTATION_REF="a6453">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcandg_vother</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -69725,7 +69750,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18213" ANNOTATION_REF="a6457">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:l</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -69905,7 +69930,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18249" ANNOTATION_REF="a6493">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prevgoal_other:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -69925,7 +69950,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18253" ANNOTATION_REF="a6497">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prevcandg_other:??</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -70175,7 +70200,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18303" ANNOTATION_REF="a6546">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -70470,7 +70495,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18361" ANNOTATION_REF="a6604">
-                <ANNOTATION_VALUE>pro.2:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>possrecip_pro.2:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -70590,17 +70615,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18385" ANNOTATION_REF="a6628">
-                <ANNOTATION_VALUE>np.h</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>np.h:other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18386" ANNOTATION_REF="a6629">
-                <ANNOTATION_VALUE>pro.1:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>excl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18387" ANNOTATION_REF="a6630">
-                <ANNOTATION_VALUE>np:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>excl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -70910,7 +70935,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18449" ANNOTATION_REF="a6692">
-                <ANNOTATION_VALUE>prevadd_np.h:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>posscandg_np.h:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -71055,7 +71080,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18478" ANNOTATION_REF="a6719">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -71280,7 +71305,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18523" ANNOTATION_REF="a6763">
-                <ANNOTATION_VALUE>prevadd_np.h:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>posscandg_np.h:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -71635,7 +71660,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18595" ANNOTATION_REF="a6834">
-                <ANNOTATION_VALUE>prevgoal_other:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prevcandg_other:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -71650,7 +71675,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18598" ANNOTATION_REF="a6837">
-                <ANNOTATION_VALUE>pvgoal_np.h:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcandg_np.h:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -71750,7 +71775,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18618" ANNOTATION_REF="a6857">
-                <ANNOTATION_VALUE>pvgoal_np.h:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcandg_np.h:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -72030,7 +72055,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18674" ANNOTATION_REF="a6912">
-                <ANNOTATION_VALUE>np:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>np:other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -73210,7 +73235,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18907" ANNOTATION_REF="a7143">
-                <ANNOTATION_VALUE>adp-pro.h:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prevcandg_adp-pro.h:obl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -73740,7 +73765,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a19011" ANNOTATION_REF="a7243">
-                <ANNOTATION_VALUE>v:pred-pro:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>v:pred-attvrecip_pro:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -74045,7 +74070,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a19072" ANNOTATION_REF="a7306">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -75375,7 +75400,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a19337" ANNOTATION_REF="a7571">
-                <ANNOTATION_VALUE>prevadd_np.h:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>posscandg_np.h:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -75870,7 +75895,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a19436" ANNOTATION_REF="a7669">
-                <ANNOTATION_VALUE>pvgoal_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pvcausg_np:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -75965,7 +75990,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a19455" ANNOTATION_REF="a7688">
-                <ANNOTATION_VALUE>prevadd_np.h:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>possgandg_np.h:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
